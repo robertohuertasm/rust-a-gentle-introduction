@@ -1,3 +1,3 @@
-# rust-a-gentle-introduction
+# Rust: A gentle introduction
 
 Talk for BcnRust Meetup and other conferences.
